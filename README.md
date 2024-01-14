@@ -26,11 +26,8 @@ Demo Video :
 pas encore de vidéo - not yet
 
 Screeshoots : 
-https://raw.githubusercontent.com/AzraDevOps/HarryAnchor/main/medias/HarryAnchor01.jpg
-https://raw.githubusercontent.com/AzraDevOps/HarryAnchor/main/medias/HarryAnchor02.jpg
-https://raw.githubusercontent.com/AzraDevOps/HarryAnchor/main/medias/HarryAnchor03.jpg
-https://raw.githubusercontent.com/AzraDevOps/HarryAnchor/main/medias/HarryAnchor04.jpg
-
+https://raw.githubusercontent.com/AzraDevOps/Cinematic/main/medias/CinematicOFF.jpg
+https://raw.githubusercontent.com/AzraDevOps/Cinematic/main/medias/CinematicON.jpg
 
 ------------------------------------------------------------------------------
 
