@@ -1,0 +1,2 @@
+# Cinematic
+Fivem Cinematic mode
